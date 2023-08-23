@@ -1,0 +1,7 @@
+Logs/
+obj/
+UserSettings/
+Library/
+.vsconfig
+Assembly-CSharp.csproj
+MyFirstGame.sln
